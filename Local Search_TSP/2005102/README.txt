@@ -1,0 +1,1 @@
+Just copy the src file and TSP_assignment_task_benchmark_data in the same directory and run TSPPoints.java

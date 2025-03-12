@@ -1,0 +1,190 @@
+Filename,Construction Method,Initial Cost,Perturbative Method,Optimized Cost,Cost Reduced
+a280.tsp,Nearest Neighbour Insertion,3148.109935,2-Opt,2726.205579,421.904356
+a280.tsp,Nearest Neighbour Insertion,3148.109935,Node Shift,2887.066733,261.043202
+a280.tsp,Nearest Neighbour Insertion,3148.109935,Node Swap,3089.436390,58.673545
+a280.tsp,Cheapest Insertion,3101.793551,2-Opt,2788.365810,313.427741
+a280.tsp,Cheapest Insertion,3101.793551,Node Shift,2769.443062,332.350489
+a280.tsp,Cheapest Insertion,3101.793551,Node Swap,3040.445419,61.348132
+a280.tsp,Greedy,2960.478381,2-Opt,2625.731850,334.746531
+a280.tsp,Greedy,2960.478381,Node Shift,2764.750779,195.727602
+a280.tsp,Greedy,2960.478381,Node Swap,2910.890003,49.588378
+berlin52.tsp,Nearest Neighbour Insertion,8980.918279,2-Opt,7841.387788,1139.530491
+berlin52.tsp,Nearest Neighbour Insertion,8980.918279,Node Shift,8221.690663,759.227616
+berlin52.tsp,Nearest Neighbour Insertion,8980.918279,Node Swap,8508.711614,472.206666
+berlin52.tsp,Cheapest Insertion,9014.893160,2-Opt,8582.740727,432.152433
+berlin52.tsp,Cheapest Insertion,9014.893160,Node Shift,8400.461285,614.431875
+berlin52.tsp,Cheapest Insertion,9014.893160,Node Swap,8899.831069,115.062091
+berlin52.tsp,Greedy,9954.062698,2-Opt,8300.359183,1653.703516
+berlin52.tsp,Greedy,9954.062698,Node Shift,8511.289675,1442.773023
+berlin52.tsp,Greedy,9954.062698,Node Swap,9286.984800,667.077898
+bier127.tsp,Nearest Neighbour Insertion,135751.778048,2-Opt,120473.769958,15278.008090
+bier127.tsp,Nearest Neighbour Insertion,135751.778048,Node Shift,123225.196512,12526.581536
+bier127.tsp,Nearest Neighbour Insertion,135751.778048,Node Swap,128540.322775,7211.455273
+bier127.tsp,Cheapest Insertion,140690.935457,2-Opt,135847.337027,4843.598430
+bier127.tsp,Cheapest Insertion,140690.935457,Node Shift,128980.871042,11710.064415
+bier127.tsp,Cheapest Insertion,140690.935457,Node Swap,138983.576485,1707.358972
+bier127.tsp,Greedy,141351.089453,2-Opt,125324.088863,16027.000590
+bier127.tsp,Greedy,141351.089453,Node Shift,123180.093980,18170.995473
+bier127.tsp,Greedy,141351.089453,Node Swap,132236.365111,9114.724342
+ch130.tsp,Nearest Neighbour Insertion,7575.286292,2-Opt,6475.817052,1099.469239
+ch130.tsp,Nearest Neighbour Insertion,7575.286292,Node Shift,6897.159536,678.126755
+ch130.tsp,Nearest Neighbour Insertion,7575.286292,Node Swap,7404.228396,171.057896
+ch130.tsp,Cheapest Insertion,7279.207596,2-Opt,6706.097530,573.110066
+ch130.tsp,Cheapest Insertion,7279.207596,Node Shift,6693.743985,585.463612
+ch130.tsp,Cheapest Insertion,7279.207596,Node Swap,6702.552228,576.655368
+ch130.tsp,Greedy,7844.935433,2-Opt,6331.214681,1513.720751
+ch130.tsp,Greedy,7844.935433,Node Shift,7001.718747,843.216685
+ch130.tsp,Greedy,7844.935433,Node Swap,7684.889550,160.045883
+ch150.tsp,Nearest Neighbour Insertion,8194.614332,2-Opt,6622.824885,1571.789446
+ch150.tsp,Nearest Neighbour Insertion,8194.614332,Node Shift,7425.332245,769.282086
+ch150.tsp,Nearest Neighbour Insertion,8194.614332,Node Swap,8065.069225,129.545106
+ch150.tsp,Cheapest Insertion,7994.286925,2-Opt,7317.208906,677.078020
+ch150.tsp,Cheapest Insertion,7994.286925,Node Shift,6939.332356,1054.954570
+ch150.tsp,Cheapest Insertion,7994.286925,Node Swap,7696.009121,298.277804
+ch150.tsp,Greedy,7743.035625,2-Opt,6814.722624,928.313001
+ch150.tsp,Greedy,7743.035625,Node Shift,7257.706035,485.329590
+ch150.tsp,Greedy,7743.035625,Node Swap,7626.389611,116.646014
+eil101.tsp,Nearest Neighbour Insertion,825.242323,2-Opt,658.933608,166.308714
+eil101.tsp,Nearest Neighbour Insertion,825.242323,Node Shift,679.620497,145.621826
+eil101.tsp,Nearest Neighbour Insertion,825.242323,Node Swap,773.242627,51.999696
+eil101.tsp,Cheapest Insertion,702.960386,2-Opt,686.190877,16.769509
+eil101.tsp,Cheapest Insertion,702.960386,Node Shift,670.789333,32.171053
+eil101.tsp,Cheapest Insertion,702.960386,Node Swap,689.193412,13.766974
+eil101.tsp,Greedy,794.603568,2-Opt,669.075100,125.528468
+eil101.tsp,Greedy,794.603568,Node Shift,672.396564,122.207004
+eil101.tsp,Greedy,794.603568,Node Swap,720.168349,74.435219
+eil51.tsp,Nearest Neighbour Insertion,513.610007,2-Opt,435.507285,78.102722
+eil51.tsp,Nearest Neighbour Insertion,513.610007,Node Shift,466.275902,47.334105
+eil51.tsp,Nearest Neighbour Insertion,513.610007,Node Swap,482.237251,31.372756
+eil51.tsp,Cheapest Insertion,496.252178,2-Opt,457.820764,38.431415
+eil51.tsp,Cheapest Insertion,496.252178,Node Shift,456.604429,39.647749
+eil51.tsp,Cheapest Insertion,496.252178,Node Swap,480.248938,16.003240
+eil51.tsp,Greedy,481.518619,2-Opt,437.408661,44.109958
+eil51.tsp,Greedy,481.518619,Node Shift,456.446626,25.071992
+eil51.tsp,Greedy,481.518619,Node Swap,467.429027,14.089592
+eil76.tsp,Nearest Neighbour Insertion,711.993293,2-Opt,570.106232,141.887061
+eil76.tsp,Nearest Neighbour Insertion,711.993293,Node Shift,593.946068,118.047225
+eil76.tsp,Nearest Neighbour Insertion,711.993293,Node Swap,628.954017,83.039276
+eil76.tsp,Cheapest Insertion,612.390862,2-Opt,597.499724,14.891138
+eil76.tsp,Cheapest Insertion,612.390862,Node Shift,583.411698,28.979164
+eil76.tsp,Cheapest Insertion,612.390862,Node Swap,597.694709,14.696153
+eil76.tsp,Greedy,617.131482,2-Opt,551.731450,65.400032
+eil76.tsp,Greedy,617.131482,Node Shift,583.013445,34.118036
+eil76.tsp,Greedy,617.131482,Node Swap,601.978024,15.153457
+kroA100.tsp,Nearest Neighbour Insertion,26856.388591,2-Opt,21921.431835,4934.956756
+kroA100.tsp,Nearest Neighbour Insertion,26856.388591,Node Shift,24761.066743,2095.321848
+kroA100.tsp,Nearest Neighbour Insertion,26856.388591,Node Swap,24274.949845,2581.438746
+kroA100.tsp,Cheapest Insertion,24307.783889,2-Opt,23556.645225,751.138664
+kroA100.tsp,Cheapest Insertion,24307.783889,Node Shift,22620.132275,1687.651614
+kroA100.tsp,Cheapest Insertion,24307.783889,Node Swap,23556.645225,751.138664
+kroA100.tsp,Greedy,24197.286357,2-Opt,21395.369124,2801.917233
+kroA100.tsp,Greedy,24197.286357,Node Shift,22175.802023,2021.484334
+kroA100.tsp,Greedy,24197.286357,Node Swap,22624.710719,1572.575637
+kroB100.tsp,Nearest Neighbour Insertion,29155.043704,2-Opt,22346.609431,6808.434273
+kroB100.tsp,Nearest Neighbour Insertion,29155.043704,Node Shift,24863.432958,4291.610746
+kroB100.tsp,Nearest Neighbour Insertion,29155.043704,Node Swap,28594.185422,560.858282
+kroB100.tsp,Cheapest Insertion,25580.915003,2-Opt,24155.206517,1425.708486
+kroB100.tsp,Cheapest Insertion,25580.915003,Node Shift,24082.605495,1498.309508
+kroB100.tsp,Cheapest Insertion,25580.915003,Node Swap,24442.255896,1138.659107
+kroB100.tsp,Greedy,25815.219732,2-Opt,22354.289799,3460.929933
+kroB100.tsp,Greedy,25815.219732,Node Shift,23180.617578,2634.602153
+kroB100.tsp,Greedy,25815.219732,Node Swap,24976.259192,838.960540
+kroC100.tsp,Nearest Neighbour Insertion,26327.362110,2-Opt,22007.246272,4320.115838
+kroC100.tsp,Nearest Neighbour Insertion,26327.362110,Node Shift,24059.479124,2267.882986
+kroC100.tsp,Nearest Neighbour Insertion,26327.362110,Node Swap,25667.423271,659.938838
+kroC100.tsp,Cheapest Insertion,25262.171883,2-Opt,24286.572262,975.599621
+kroC100.tsp,Cheapest Insertion,25262.171883,Node Shift,23239.540495,2022.631388
+kroC100.tsp,Cheapest Insertion,25262.171883,Node Swap,24447.573824,814.598058
+kroC100.tsp,Greedy,23432.894814,2-Opt,21368.009650,2064.885165
+kroC100.tsp,Greedy,23432.894814,Node Shift,22356.452511,1076.442303
+kroC100.tsp,Greedy,23432.894814,Node Swap,22672.035961,760.858854
+kroD100.tsp,Nearest Neighbour Insertion,26950.461223,2-Opt,22444.718211,4505.743011
+kroD100.tsp,Nearest Neighbour Insertion,26950.461223,Node Shift,24401.965663,2548.495560
+kroD100.tsp,Nearest Neighbour Insertion,26950.461223,Node Swap,26580.809787,369.651435
+kroD100.tsp,Cheapest Insertion,25204.274499,2-Opt,23940.734610,1263.539890
+kroD100.tsp,Cheapest Insertion,25204.274499,Node Shift,24089.292152,1114.982347
+kroD100.tsp,Cheapest Insertion,25204.274499,Node Swap,24967.086068,237.188431
+kroD100.tsp,Greedy,24450.527630,2-Opt,22206.742077,2243.785553
+kroD100.tsp,Greedy,24450.527630,Node Shift,22979.201634,1471.325996
+kroD100.tsp,Greedy,24450.527630,Node Swap,23688.847304,761.680326
+kroE100.tsp,Nearest Neighbour Insertion,27587.187458,2-Opt,23257.106469,4330.080989
+kroE100.tsp,Nearest Neighbour Insertion,27587.187458,Node Shift,25783.830164,1803.357294
+kroE100.tsp,Nearest Neighbour Insertion,27587.187458,Node Swap,26041.929863,1545.257595
+kroE100.tsp,Cheapest Insertion,25902.003357,2-Opt,23233.107619,2668.895738
+kroE100.tsp,Cheapest Insertion,25902.003357,Node Shift,22295.772074,3606.231283
+kroE100.tsp,Cheapest Insertion,25902.003357,Node Swap,25065.268247,836.735109
+kroE100.tsp,Greedy,24847.059645,2-Opt,22372.826305,2474.233340
+kroE100.tsp,Greedy,24847.059645,Node Shift,22725.211139,2121.848506
+kroE100.tsp,Greedy,24847.059645,Node Swap,23643.309264,1203.750382
+lin105.tsp,Nearest Neighbour Insertion,20362.757417,2-Opt,14716.626897,5646.130520
+lin105.tsp,Nearest Neighbour Insertion,20362.757417,Node Shift,17470.984448,2891.772969
+lin105.tsp,Nearest Neighbour Insertion,20362.757417,Node Swap,19631.418106,731.339311
+lin105.tsp,Cheapest Insertion,16934.617803,2-Opt,15300.855244,1633.762559
+lin105.tsp,Cheapest Insertion,16934.617803,Node Shift,15887.208017,1047.409786
+lin105.tsp,Cheapest Insertion,16934.617803,Node Swap,16514.135466,420.482337
+lin105.tsp,Greedy,16771.826423,2-Opt,14583.330978,2188.495444
+lin105.tsp,Greedy,16771.826423,Node Shift,15189.251869,1582.574553
+lin105.tsp,Greedy,16771.826423,Node Swap,16581.805993,190.020429
+lin318.tsp,Nearest Neighbour Insertion,54033.576773,2-Opt,44363.698703,9669.878071
+lin318.tsp,Nearest Neighbour Insertion,54033.576773,Node Shift,49557.333256,4476.243517
+lin318.tsp,Nearest Neighbour Insertion,54033.576773,Node Swap,53239.350843,794.225930
+lin318.tsp,Cheapest Insertion,49454.807071,2-Opt,45666.261654,3788.545417
+lin318.tsp,Cheapest Insertion,49454.807071,Node Shift,46127.080499,3327.726572
+lin318.tsp,Cheapest Insertion,49454.807071,Node Swap,48296.600749,1158.206323
+lin318.tsp,Greedy,49910.495800,2-Opt,43544.299228,6366.196572
+lin318.tsp,Greedy,49910.495800,Node Shift,46258.424097,3652.071703
+lin318.tsp,Greedy,49910.495800,Node Swap,48458.415161,1452.080639
+pr124.tsp,Nearest Neighbour Insertion,69299.425216,2-Opt,60371.936188,8927.489028
+pr124.tsp,Nearest Neighbour Insertion,69299.425216,Node Shift,64381.940731,4917.484485
+pr124.tsp,Nearest Neighbour Insertion,69299.425216,Node Swap,65186.528291,4112.896925
+pr124.tsp,Cheapest Insertion,65318.192840,2-Opt,61907.486337,3410.706503
+pr124.tsp,Cheapest Insertion,65318.192840,Node Shift,61753.430727,3564.762113
+pr124.tsp,Cheapest Insertion,65318.192840,Node Swap,63935.630279,1382.562561
+pr124.tsp,Greedy,64997.300543,2-Opt,59607.740268,5389.560275
+pr124.tsp,Greedy,64997.300543,Node Shift,61563.203487,3434.097056
+pr124.tsp,Greedy,64997.300543,Node Swap,64231.790119,765.510424
+pr144.tsp,Nearest Neighbour Insertion,61650.719795,2-Opt,61243.804873,406.914922
+pr144.tsp,Nearest Neighbour Insertion,61650.719795,Node Shift,61012.857420,637.862376
+pr144.tsp,Nearest Neighbour Insertion,61650.719795,Node Swap,61264.517616,386.202179
+pr144.tsp,Cheapest Insertion,73033.130736,2-Opt,59053.941161,13979.189575
+pr144.tsp,Cheapest Insertion,73033.130736,Node Shift,71787.844164,1245.286572
+pr144.tsp,Cheapest Insertion,73033.130736,Node Swap,72562.857906,470.272830
+pr144.tsp,Greedy,65845.658698,2-Opt,58862.087411,6983.571287
+pr144.tsp,Greedy,65845.658698,Node Shift,63079.924485,2765.734213
+pr144.tsp,Greedy,65845.658698,Node Swap,65726.465730,119.192967
+pr76.tsp,Nearest Neighbour Insertion,153461.922502,2-Opt,114285.319857,39176.602645
+pr76.tsp,Nearest Neighbour Insertion,153461.922502,Node Shift,114889.566617,38572.355885
+pr76.tsp,Nearest Neighbour Insertion,153461.922502,Node Swap,123434.107130,30027.815372
+pr76.tsp,Cheapest Insertion,125936.205102,2-Opt,119412.617385,6523.587717
+pr76.tsp,Cheapest Insertion,125936.205102,Node Shift,117798.652766,8137.552337
+pr76.tsp,Cheapest Insertion,125936.205102,Node Swap,120442.666685,5493.538417
+pr76.tsp,Greedy,147497.978981,2-Opt,111555.012542,35942.966438
+pr76.tsp,Greedy,147497.978981,Node Shift,128967.154797,18530.824183
+pr76.tsp,Greedy,147497.978981,Node Swap,144304.134951,3193.844029
+rat195.tsp,Nearest Neighbour Insertion,2761.957360,2-Opt,2398.590022,363.367338
+rat195.tsp,Nearest Neighbour Insertion,2761.957360,Node Shift,2528.384422,233.572938
+rat195.tsp,Nearest Neighbour Insertion,2761.957360,Node Swap,2671.182703,90.774657
+rat195.tsp,Cheapest Insertion,2814.572774,2-Opt,2565.401911,249.170863
+rat195.tsp,Cheapest Insertion,2814.572774,Node Shift,2510.893789,303.678984
+rat195.tsp,Cheapest Insertion,2814.572774,Node Swap,2664.056949,150.515825
+rat195.tsp,Greedy,2758.043691,2-Opt,2396.157481,361.886210
+rat195.tsp,Greedy,2758.043691,Node Shift,2478.543117,279.500574
+rat195.tsp,Greedy,2758.043691,Node Swap,2726.915244,31.128448
+rat99.tsp,Nearest Neighbour Insertion,1564.724855,2-Opt,1295.531612,269.193244
+rat99.tsp,Nearest Neighbour Insertion,1564.724855,Node Shift,1372.425907,192.298948
+rat99.tsp,Nearest Neighbour Insertion,1564.724855,Node Swap,1387.871944,176.852911
+rat99.tsp,Cheapest Insertion,1482.020268,2-Opt,1353.916705,128.103562
+rat99.tsp,Cheapest Insertion,1482.020268,Node Shift,1292.995712,189.024556
+rat99.tsp,Cheapest Insertion,1482.020268,Node Swap,1412.232092,69.788175
+rat99.tsp,Greedy,1481.095431,2-Opt,1257.183106,223.912325
+rat99.tsp,Greedy,1481.095431,Node Shift,1326.000500,155.094931
+rat99.tsp,Greedy,1481.095431,Node Swap,1327.605927,153.489504
+st70.tsp,Nearest Neighbour Insertion,805.531201,2-Opt,691.081838,114.449363
+st70.tsp,Nearest Neighbour Insertion,805.531201,Node Shift,750.851097,54.680104
+st70.tsp,Nearest Neighbour Insertion,805.531201,Node Swap,766.497579,39.033622
+st70.tsp,Cheapest Insertion,778.994634,2-Opt,755.482037,23.512596
+st70.tsp,Cheapest Insertion,778.994634,Node Shift,723.223487,55.771147
+st70.tsp,Cheapest Insertion,778.994634,Node Swap,742.434204,36.560430
+st70.tsp,Greedy,746.044101,2-Opt,700.991460,45.052641
+st70.tsp,Greedy,746.044101,Node Shift,711.521365,34.522736
+st70.tsp,Greedy,746.044101,Node Swap,718.023684,28.020417
